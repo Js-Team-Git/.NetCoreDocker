@@ -1,6 +1,6 @@
 #!/bin/bash
-export OTEL_EXPORTER_OTLP_ENDPOINT=https://4760a6ce142b46fb9accf37b43fab918.apm.us-central1.gcp.cloud.es.io:443
-export OTEL_EXPORTER_OTLP_HEADERS="Authorization=Bearer auBpHbjNHshXDDMd1O"
+export OTEL_EXPORTER_OTLP_ENDPOINT=https://c927b4346b8a46bfb634439f0a75572e.apm.us-central1.gcp.cloud.es.io:443
+export OTEL_EXPORTER_OTLP_HEADERS="Authorization=Bearer LYtoaASLSGfMduNJOL"
 export OTEL_METRICS_EXPORTER=otlp
 export OTEL_LOGS_EXPORTER=otlp
 
